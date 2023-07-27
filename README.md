@@ -14,7 +14,11 @@
         <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
  </a>
  
-  <a href="https://www.instagram.com/nevahram/">
+  <a href="https://neveram.github.io/">
+        <img src="https://img.shields.io/badge/Personal%20Site-green?style=flat-square&logo=Personal%20Site" alt="Neveram">
+ </a>
+
+<a href="https://www.instagram.com/nevahram/">
         <img src="https://img.shields.io/badge/instagram-blueviolet?style=flat-square&logo=instagram" alt="Instagram">
  </a>
  
