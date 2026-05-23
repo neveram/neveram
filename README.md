@@ -5,8 +5,8 @@
         Open to collaborate!<img src="https://media.tenor.com/swkJYSIq89YAAAAi/man-technologist-people.gif" width="28px"alt="🖥️"><br>
     </i><br>
  
- <a href="https://twitter.com/abhiramyenuga">
-        <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
+ <a href="https://x.com/abhiramyenuga">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
  </a>
  
   <a href="https://neveram.github.io/">
