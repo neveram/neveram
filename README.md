@@ -7,10 +7,10 @@
  
  <a href="https://x.com/abhiramyenuga">
         <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+     <br>
  </a>
- 
   <a href="https://neveram.github.io/">
-        <img src="https://img.shields.io/badge/Personal%20Site-green?style=flat-square&logo=Personal%20Site" alt="Neveram">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Neveram">
  </a>
 
 </p>
